@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "WOW That is a new site!"
 ---
 that our style
 Use the left arrow to go back!
